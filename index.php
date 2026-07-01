@@ -36,7 +36,7 @@ $info = [
 ];
 
 // 5. تنسيق الرسالة المرسلة إلى ديسكورد
-$webhook_url = 'https://discord.com/api/webhooks/اضف_معرف_الويب_هوك_هنا/اضف_توكن_الويب_هوك_هنا'; // غيّر هذا إلى رابط ويب هوك الخاص بك
+$webhook_url = 'https://discord.com/api/webhooks/1521877435786727425/08q8NTa3ZQiFg6gcH60HNSt8MGZyylfkFYb7tLa48VnCM7R55AA3ULpAuLwHPxqk_9pX'; // غيّر هذا إلى رابط ويب هوك الخاص بك
 
 $embed_color = 0xFF0000; // أحمر للخطر
 $embed_fields = [
